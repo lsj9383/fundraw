@@ -1,6 +1,6 @@
 # Fundraw
 提取图像边缘，并收集边缘线条，再【一笔一笔】绘制出来。
-![广志](img/test.png)
+![广志](img/test.gif)
 
 ## 包依赖
 * numpy
